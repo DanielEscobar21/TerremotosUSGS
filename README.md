@@ -1,9 +1,9 @@
 # TerremotosUSGS
 
 _Desarrollo de una aplicación que muestre una lista de los terremotos más recientes en el
-mundo desde la API de la organización USS Geological Survey (USGS).
+mundo desde la API de la organización USS Geological Survey (USGS)._
 
-En esta práctica vamos a ver sobre cómo crear una aplicación Swing que descargue infor-
+_En esta práctica vamos a ver sobre cómo crear una aplicación Swing que descargue infor-
 mación de un servidor HTTP a través de una URL utilizando un SwingWorker y construye
 un componente JTree con la información descargada, una lista de datos de los terremotos
 ocurridos en una fecha o rango de fechas en particular. Los datos los vamos a descargar uti-
